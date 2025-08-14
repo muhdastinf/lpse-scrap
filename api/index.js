@@ -1,5 +1,5 @@
 const express = require('express');
-const { testScraper } = require('./test-local');
+const { testScraper } = require('../test-local');
 const swaggerUi = require('swagger-ui-express');
 const swaggerJsdoc = require('swagger-jsdoc');
 
